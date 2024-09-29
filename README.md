@@ -1,5 +1,5 @@
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/rijo-s-lal-a07230305&ved=2ahUKEwit_eP35OCIAxX1UGwGHXYWFFAQFnoECBQQAQ&usg=AOvVaw04clX_-4h-gQUVEOc9WYhF)
 
 # 💻 Languages and Tools:
